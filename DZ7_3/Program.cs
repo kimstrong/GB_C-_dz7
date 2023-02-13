@@ -35,19 +35,17 @@ void FillArray(int[,] array)
 FillArray(matrix);
 PrintArray(matrix);
 
-void FillAverage(int[,] array)
-{
-    for (int i = 0; i < m; i++)
-    {
-        int average = 0;
-        for (int j = 0; j < n; j++)
-        {
-            average += array[i, j];
-        }
-        Console.Write($"Среднее арифметическое элементов в каждом столбце: ");
-        Console.WriteLine((float)average / n);
 
-    }
+Console.Write($"\nCреднее арифметическое:\n");
+for (int i = 0; i < n; i++)
+{
+  double arithmeticMean = 0;
+  for (int j = 0; j < m; j++)
+  {
+    arithmeticMean += matrix[j, i];
+  }
+  arithmeticMean = Math.Round(arithmeticMean / m, 1);
+  Console.WriteLine($"столбца № {i+1}: {arithmeticMean}");
 }
 
-FillAverage(matrix);
+// разобралась)
