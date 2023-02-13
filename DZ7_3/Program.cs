@@ -42,10 +42,10 @@ void FillAverage(int[,] array)
         int average = 0;
         for (int j = 0; j < n; j++)
         {
-            average += array[j, i];
+            average += array[i, j];
         }
         Console.Write($"Среднее арифметическое элементов в каждом столбце: ");
-        Console.WriteLine((float)average / m);
+        Console.WriteLine((float)average / n);
 
     }
 }
