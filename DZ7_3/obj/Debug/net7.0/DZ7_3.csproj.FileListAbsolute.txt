@@ -1,0 +1,15 @@
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\bin\Debug\net7.0\DZ7_3.exe
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\bin\Debug\net7.0\DZ7_3.deps.json
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\bin\Debug\net7.0\DZ7_3.runtimeconfig.json
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\bin\Debug\net7.0\DZ7_3.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\bin\Debug\net7.0\DZ7_3.pdb
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.csproj.AssemblyReference.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.AssemblyInfoInputs.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.AssemblyInfo.cs
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\refint\DZ7_3.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.pdb
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\DZ7_3.genruntimeconfig.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ7\DZ7_3\obj\Debug\net7.0\ref\DZ7_3.dll
