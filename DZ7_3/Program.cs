@@ -7,15 +7,15 @@
 
 
 Console.Clear();
-int m = 3;
-int n = 4;
-int[,] matrix = new int[m, n];
+int row = 3;
+int column = 4;
+int[,] matrix = new int[row, column];
 void PrintArray(int[,] array)
 {
-    for (int i = 0; i < m; i++)
+    for (int i = 0; i < row; i++)
     {
 
-        for (int j = 0; j < n; j++)
+        for (int j = 0; j < column; j++)
         {
             Console.Write($"{array[i, j]} ");
         }
@@ -25,8 +25,8 @@ void PrintArray(int[,] array)
 
 void FillArray(int[,] array)
 {
-    for (int i = 0; i < m; i++)
-        for (int j = 0; j < n; j++)
+    for (int i = 0; i < row; i++)
+        for (int j = 0; j < column; j++)
         {
             array[i, j] = new Random().Next(0, 10);
         }
@@ -37,15 +37,14 @@ PrintArray(matrix);
 
 
 Console.Write($"\nCреднее арифметическое:\n");
-for (int i = 0; i < n; i++)
+for (int i = 0; i < column; i++)
 {
   double arithmeticMean = 0;
-  for (int j = 0; j < m; j++)
+  for (int j = 0; j < row; j++)
   {
     arithmeticMean += matrix[j, i];
   }
-  arithmeticMean = Math.Round(arithmeticMean / m, 1);
+  arithmeticMean = Math.Round(arithmeticMean / row, 1);
   Console.WriteLine($"столбца № {i+1}: {arithmeticMean}");
 }
 
-// разобралась)
